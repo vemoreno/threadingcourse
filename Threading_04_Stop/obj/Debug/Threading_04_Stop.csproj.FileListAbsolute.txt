@@ -1,0 +1,14 @@
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingRobot\Threading_04_Stop\bin\Debug\Threading_04_Stop.exe.config
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingRobot\Threading_04_Stop\bin\Debug\Threading_04_Stop.exe
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingRobot\Threading_04_Stop\bin\Debug\Threading_04_Stop.pdb
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingRobot\Threading_04_Stop\obj\Debug\Threading_04_Stop.csprojAssemblyReference.cache
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingRobot\Threading_04_Stop\obj\Debug\Threading_04_Stop.csproj.CoreCompileInputs.cache
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingRobot\Threading_04_Stop\obj\Debug\Threading_04_Stop.exe
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingRobot\Threading_04_Stop\obj\Debug\Threading_04_Stop.pdb
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingCourse\Threading_04_Stop\bin\Debug\Threading_04_Stop.exe.config
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingCourse\Threading_04_Stop\bin\Debug\Threading_04_Stop.exe
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingCourse\Threading_04_Stop\bin\Debug\Threading_04_Stop.pdb
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingCourse\Threading_04_Stop\obj\Debug\Threading_04_Stop.csprojAssemblyReference.cache
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingCourse\Threading_04_Stop\obj\Debug\Threading_04_Stop.csproj.CoreCompileInputs.cache
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingCourse\Threading_04_Stop\obj\Debug\Threading_04_Stop.exe
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingCourse\Threading_04_Stop\obj\Debug\Threading_04_Stop.pdb

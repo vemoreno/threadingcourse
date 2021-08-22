@@ -1,0 +1,12 @@
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingRobot\Threading_10_ThreadStates\bin\Debug\Threading_10_ThreadStates.exe.config
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingRobot\Threading_10_ThreadStates\bin\Debug\Threading_10_ThreadStates.exe
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingRobot\Threading_10_ThreadStates\bin\Debug\Threading_10_ThreadStates.pdb
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingRobot\Threading_10_ThreadStates\obj\Debug\Threading_10_ThreadStates.csproj.CoreCompileInputs.cache
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingRobot\Threading_10_ThreadStates\obj\Debug\Threading_10_ThreadStates.exe
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingRobot\Threading_10_ThreadStates\obj\Debug\Threading_10_ThreadStates.pdb
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingCourse\Threading_10_ThreadStates\bin\Debug\Threading_10_ThreadStates.exe.config
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingCourse\Threading_10_ThreadStates\bin\Debug\Threading_10_ThreadStates.exe
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingCourse\Threading_10_ThreadStates\bin\Debug\Threading_10_ThreadStates.pdb
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingCourse\Threading_10_ThreadStates\obj\Debug\Threading_10_ThreadStates.csproj.CoreCompileInputs.cache
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingCourse\Threading_10_ThreadStates\obj\Debug\Threading_10_ThreadStates.exe
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingCourse\Threading_10_ThreadStates\obj\Debug\Threading_10_ThreadStates.pdb

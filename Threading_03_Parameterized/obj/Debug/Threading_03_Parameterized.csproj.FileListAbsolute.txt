@@ -1,0 +1,14 @@
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingRobot\Threading_03_Parameterized\bin\Debug\Threading_03_Parameterized.exe.config
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingRobot\Threading_03_Parameterized\bin\Debug\Threading_03_Parameterized.exe
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingRobot\Threading_03_Parameterized\bin\Debug\Threading_03_Parameterized.pdb
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingRobot\Threading_03_Parameterized\obj\Debug\Threading_03_Parameterized.csprojAssemblyReference.cache
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingRobot\Threading_03_Parameterized\obj\Debug\Threading_03_Parameterized.csproj.CoreCompileInputs.cache
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingRobot\Threading_03_Parameterized\obj\Debug\Threading_03_Parameterized.exe
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingRobot\Threading_03_Parameterized\obj\Debug\Threading_03_Parameterized.pdb
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingCourse\Threading_03_Parameterized\bin\Debug\Threading_03_Parameterized.exe.config
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingCourse\Threading_03_Parameterized\bin\Debug\Threading_03_Parameterized.exe
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingCourse\Threading_03_Parameterized\bin\Debug\Threading_03_Parameterized.pdb
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingCourse\Threading_03_Parameterized\obj\Debug\Threading_03_Parameterized.csprojAssemblyReference.cache
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingCourse\Threading_03_Parameterized\obj\Debug\Threading_03_Parameterized.csproj.CoreCompileInputs.cache
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingCourse\Threading_03_Parameterized\obj\Debug\Threading_03_Parameterized.exe
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingCourse\Threading_03_Parameterized\obj\Debug\Threading_03_Parameterized.pdb

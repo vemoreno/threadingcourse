@@ -1,0 +1,14 @@
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingRobot\Threading_06_ThreadJoins\bin\Debug\Threading_06_ThreadJoins.exe.config
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingRobot\Threading_06_ThreadJoins\bin\Debug\Threading_06_ThreadJoins.exe
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingRobot\Threading_06_ThreadJoins\bin\Debug\Threading_06_ThreadJoins.pdb
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingRobot\Threading_06_ThreadJoins\obj\Debug\Threading_06_ThreadJoins.csprojAssemblyReference.cache
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingRobot\Threading_06_ThreadJoins\obj\Debug\Threading_06_ThreadJoins.csproj.CoreCompileInputs.cache
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingRobot\Threading_06_ThreadJoins\obj\Debug\Threading_06_ThreadJoins.exe
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingRobot\Threading_06_ThreadJoins\obj\Debug\Threading_06_ThreadJoins.pdb
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingCourse\Threading_06_ThreadJoins\bin\Debug\Threading_06_ThreadJoins.exe.config
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingCourse\Threading_06_ThreadJoins\bin\Debug\Threading_06_ThreadJoins.exe
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingCourse\Threading_06_ThreadJoins\bin\Debug\Threading_06_ThreadJoins.pdb
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingCourse\Threading_06_ThreadJoins\obj\Debug\Threading_06_ThreadJoins.csprojAssemblyReference.cache
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingCourse\Threading_06_ThreadJoins\obj\Debug\Threading_06_ThreadJoins.csproj.CoreCompileInputs.cache
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingCourse\Threading_06_ThreadJoins\obj\Debug\Threading_06_ThreadJoins.exe
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingCourse\Threading_06_ThreadJoins\obj\Debug\Threading_06_ThreadJoins.pdb

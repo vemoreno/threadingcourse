@@ -1,0 +1,14 @@
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingRobot\Threading_02_Naming\bin\Debug\Threading_02_Naming.exe.config
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingRobot\Threading_02_Naming\bin\Debug\Threading_02_Naming.exe
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingRobot\Threading_02_Naming\bin\Debug\Threading_02_Naming.pdb
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingRobot\Threading_02_Naming\obj\Debug\Threading_02_Naming.csprojAssemblyReference.cache
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingRobot\Threading_02_Naming\obj\Debug\Threading_02_Naming.csproj.CoreCompileInputs.cache
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingRobot\Threading_02_Naming\obj\Debug\Threading_02_Naming.exe
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingRobot\Threading_02_Naming\obj\Debug\Threading_02_Naming.pdb
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingCourse\Threading_02_Naming\bin\Debug\Threading_02_Naming.exe.config
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingCourse\Threading_02_Naming\bin\Debug\Threading_02_Naming.exe
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingCourse\Threading_02_Naming\bin\Debug\Threading_02_Naming.pdb
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingCourse\Threading_02_Naming\obj\Debug\Threading_02_Naming.csprojAssemblyReference.cache
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingCourse\Threading_02_Naming\obj\Debug\Threading_02_Naming.csproj.CoreCompileInputs.cache
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingCourse\Threading_02_Naming\obj\Debug\Threading_02_Naming.exe
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingCourse\Threading_02_Naming\obj\Debug\Threading_02_Naming.pdb

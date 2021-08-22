@@ -1,0 +1,14 @@
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingRobot\Threading_01_Switching\bin\Debug\Threading_01_Switching.exe.config
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingRobot\Threading_01_Switching\bin\Debug\Threading_01_Switching.exe
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingRobot\Threading_01_Switching\bin\Debug\Threading_01_Switching.pdb
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingRobot\Threading_01_Switching\obj\Debug\Threading_01_Switching.csprojAssemblyReference.cache
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingRobot\Threading_01_Switching\obj\Debug\Threading_01_Switching.csproj.CoreCompileInputs.cache
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingRobot\Threading_01_Switching\obj\Debug\Threading_01_Switching.exe
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingRobot\Threading_01_Switching\obj\Debug\Threading_01_Switching.pdb
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingCourse\Threading_01_Switching\bin\Debug\Threading_01_Switching.exe.config
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingCourse\Threading_01_Switching\bin\Debug\Threading_01_Switching.exe
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingCourse\Threading_01_Switching\bin\Debug\Threading_01_Switching.pdb
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingCourse\Threading_01_Switching\obj\Debug\Threading_01_Switching.csprojAssemblyReference.cache
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingCourse\Threading_01_Switching\obj\Debug\Threading_01_Switching.csproj.CoreCompileInputs.cache
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingCourse\Threading_01_Switching\obj\Debug\Threading_01_Switching.exe
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingCourse\Threading_01_Switching\obj\Debug\Threading_01_Switching.pdb

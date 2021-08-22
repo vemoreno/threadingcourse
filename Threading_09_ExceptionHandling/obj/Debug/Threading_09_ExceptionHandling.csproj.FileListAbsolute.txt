@@ -1,0 +1,12 @@
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingRobot\Threading_09_ExceptionHandling\bin\Debug\Threading_09_ExceptionHandling.exe.config
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingRobot\Threading_09_ExceptionHandling\bin\Debug\Threading_09_ExceptionHandling.exe
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingRobot\Threading_09_ExceptionHandling\bin\Debug\Threading_09_ExceptionHandling.pdb
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingRobot\Threading_09_ExceptionHandling\obj\Debug\Threading_09_ExceptionHandling.csproj.CoreCompileInputs.cache
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingRobot\Threading_09_ExceptionHandling\obj\Debug\Threading_09_ExceptionHandling.exe
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingRobot\Threading_09_ExceptionHandling\obj\Debug\Threading_09_ExceptionHandling.pdb
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingCourse\Threading_09_ExceptionHandling\bin\Debug\Threading_09_ExceptionHandling.exe.config
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingCourse\Threading_09_ExceptionHandling\bin\Debug\Threading_09_ExceptionHandling.exe
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingCourse\Threading_09_ExceptionHandling\bin\Debug\Threading_09_ExceptionHandling.pdb
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingCourse\Threading_09_ExceptionHandling\obj\Debug\Threading_09_ExceptionHandling.csproj.CoreCompileInputs.cache
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingCourse\Threading_09_ExceptionHandling\obj\Debug\Threading_09_ExceptionHandling.exe
+E:\Dropbox Separado\Online Business\Course 003 Threading\01 Visua Studio Code\ThreadingCourse\Threading_09_ExceptionHandling\obj\Debug\Threading_09_ExceptionHandling.pdb
